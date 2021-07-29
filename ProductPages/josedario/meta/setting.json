@@ -1,0 +1,58 @@
+{
+    "theme": "Jose Darío Salazar Bernal",
+    "thumbnail" : "",
+    "variables": [
+        {
+         "name" : "NAME",
+         "value" : "José Dario Salazar Bernal",
+         "type": "text",
+         "title": "Nombre de tu página"   
+        },
+        {
+         "name" : "TAGLINE",
+         "value" : "José Dario Salazar Bernal",
+         "type": "text",
+         "title": "Lema de la página"   
+        },
+        {
+            "type": "section-title",
+            "title": "EDITAR PROPUESTA"   
+        },
+        {
+         "name" : "PLAN_NAME_1",
+         "value" : "Empleo",
+         "type": "text",
+         "title": "Propuesta 1: "   
+        },
+        {
+            "name" : "PLAN_IMAGE_1",
+            "value" : "",
+            "type" : "image",
+            "title" : "Cargar imágen de propuesta 1"
+        },
+        {
+         "name" : "PLAN_NAME_2",
+         "value" : "Educación",
+         "type": "text",
+         "title": "Propuesta 2: "   
+        },
+        {
+            "name" : "PLAN_IMAGE_2",
+            "value" : "",
+            "type" : "image",
+            "title" : "Cargar imágen de propuesta 2"
+,        }
+        {
+         "name" : "PLAN_NAME_3",
+         "value" : "Justicia",
+         "type": "text",
+         "title": "Propuesta 3: "   
+        },
+        {
+            "name" : "PLAN_IMAGE_2",
+            "value" : "",
+            "type" : "image",
+            "title" : "Cargar imágen de propuesta 3 "
+        }
+    ]
+}
