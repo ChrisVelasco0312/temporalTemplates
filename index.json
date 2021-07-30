@@ -1,4 +1,12 @@
 [
-    {"template": "presto" , "url": "https://subcorporeal.github.io/temporalTemplates/ProductPages/presto/meta/settings.json"},
-    {"template": "josedario" , "url": "https://subcorporeal.github.io/temporalTemplates/ProductPages/josedario/meta/settings.json"}
+    {
+        "theme": "presto" , 
+        "thumbnnail": "https://subcorporeal.github.io/temporalTemplates/ProductPages/presto/meta/thumbnnail.png",
+        "url": "https://subcorporeal.github.io/temporalTemplates/ProductPages/presto/meta/settings.json"
+    },
+    {
+        "theme": "josedario" ,
+        "thumbnail": "https://subcorporeal.github.io/temporalTemplates/ProductPages/josedario/meta/thumbnail.png",
+        "url": "https://subcorporeal.github.io/temporalTemplates/ProductPages/josedario/meta/settings.json"
+    }
 ]
