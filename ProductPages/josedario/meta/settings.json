@@ -57,7 +57,8 @@
             "name": "MAIN_FONT",
             "value": "Titillium web",
             "type": "font",
-            "title": "Elige tu fuente"
+            "title": "Elige tu fuente",
+            "options": ["Titillium web", "Helvetica", "Barlow", "Baskerville"]
         },
         {
             "name" : "PRIMARY_COLOR",
